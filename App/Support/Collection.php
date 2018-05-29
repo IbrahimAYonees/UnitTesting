@@ -27,7 +27,9 @@ class Collection implements IteratorAggregate,JsonSerializable{
 
     public function first(){
         if(!$this->isEmpty()){
-            return $this->items[0];
+            foreach ($this->items as $item){
+                return $item;
+            }
         }else{
             return null;
         }
@@ -35,7 +37,7 @@ class Collection implements IteratorAggregate,JsonSerializable{
 
     public function last(){
         if(!$this->isEmpty()) {
-            return $this->items[$this->count() - 1];
+            return end($this->items);
         }else{
             return null;
         }
