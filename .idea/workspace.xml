@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20a45d7b-3831-4a36-9e07-a8be0fdf9970" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/App/Support/Collection.php" afterPath="$PROJECT_DIR$/App/Support/Collection.php" />
-    </list>
+    <list default="true" id="20a45d7b-3831-4a36-9e07-a8be0fdf9970" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +34,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Collection.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CollectionTest.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tests/unit/CollectionTest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+              <folding>
+                <element signature="e#7#38#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Collection.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/App/Support/Collection.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
@@ -90,16 +100,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="phpunit.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/phpunit.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="45" lean-forward="false" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="AdditionTest.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/unit/Calculator/AdditionTest.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -142,7 +142,6 @@
         <option value="$PROJECT_DIR$/App/Models/User.php" />
         <option value="$PROJECT_DIR$/tests/unit/UserTest.php" />
         <option value="E:/ـLearning HTML5 APPs/New folder/taskAtHand.js" />
-        <option value="$PROJECT_DIR$/tests/unit/CollectionTest.php" />
         <option value="$PROJECT_DIR$/App/Calculater/Addition.php" />
         <option value="$PROJECT_DIR$/App/Calculator/OperationInterface.php" />
         <option value="$PROJECT_DIR$/App/Calculator/Exceptions/NoOperandsException.php" />
@@ -154,6 +153,7 @@
         <option value="$PROJECT_DIR$/App/Calculator/Calculator.php" />
         <option value="$PROJECT_DIR$/tests/unit/Calculator/CalculatorTest.php" />
         <option value="$PROJECT_DIR$/App/Support/Collection.php" />
+        <option value="$PROJECT_DIR$/tests/unit/CollectionTest.php" />
       </list>
     </option>
   </component>
@@ -262,13 +262,6 @@
               <item name="tests" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="unit" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="phpUnitTesting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="phpUnitTesting" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="tests" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="unit" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Calculator" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -319,12 +312,12 @@
       <workItem from="1527417071531" duration="773000" />
       <workItem from="1527499341079" duration="13248000" />
       <workItem from="1527589170529" duration="1199000" />
-      <workItem from="1527607456669" duration="2108000" />
+      <workItem from="1527607456669" duration="2652000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41844000" />
+    <option name="totallyTimeSpent" value="42388000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -629,13 +622,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/unit/CollectionTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2970">
-          <caret line="99" column="42" lean-forward="false" selection-start-line="99" selection-start-column="42" selection-end-line="99" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/App/Calculator/Division.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="624">
@@ -680,14 +666,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/App/Calculator/OperationAbstract.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/App/Calculator/Exceptions/NoOperandsException.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -728,6 +706,24 @@
           <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
           <folding>
             <element signature="e#30#52#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Calculator/OperationAbstract.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/unit/CollectionTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+          <folding>
+            <element signature="e#7#38#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
